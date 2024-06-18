@@ -1,0 +1,60 @@
+[{
+    "title": "Spring Rolls",
+    "price": "5.99",
+    "featured": true,
+    "category": "appetizers"
+},
+{
+    "title": "Garlic Bread",
+    "price": "3.99",
+    "featured": false,
+    "category": "appetizers"
+},
+{
+    "title": "Steak",
+    "price": "19.99",
+    "featured": true,
+    "category": "main-courses"
+},
+{
+    "title": "Grilled Salmon",
+    "price": "17.99",
+    "featured": false,
+    "category": "main-courses"
+},
+{
+    "title": "Chocolate Cake",
+    "price": "6.99",
+    "featured": true,
+    "category": "desserts"
+},
+{
+    "title": "Ice Cream",
+    "price": "4.99",
+    "featured": false,
+    "category": "desserts"
+},
+{
+    "title": "Coca Cola",
+    "price": "1.99",
+    "featured": true,
+    "category": "beverages"
+},
+{
+    "title": "Lemonade",
+    "price": "2.49",
+    "featured": false,
+    "category": "beverages" 
+},
+{
+    "title": "Caesar Salad",
+    "price": "8.99",
+    "featured": true,
+    "category": "salads"
+},
+{
+    "title": "Greek Salad",
+    "price": "7.99",
+    "featured": false,
+    "category": "salads"
+}]
